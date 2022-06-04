@@ -1,0 +1,7 @@
+go 1.18
+
+use (
+	./pkg/module
+	./pkg/module_b
+	.
+)
